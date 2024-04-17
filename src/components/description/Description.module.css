@@ -1,0 +1,13 @@
+.container {
+    display: block;
+    text-align: center;
+}
+
+.title {
+    color: blueviolet;
+}
+
+.text {
+    font-size: 22px;
+    font-family: cursive;
+}

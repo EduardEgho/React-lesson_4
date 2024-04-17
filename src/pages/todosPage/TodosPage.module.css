@@ -1,0 +1,9 @@
+.container {
+    background-color: silver;
+    display: block;
+    text-align: center;
+}
+
+.block_div {
+    color: navy;
+}
